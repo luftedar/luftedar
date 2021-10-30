@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Orçun.I'm from Turkey. I'm currently studying in Microver to become a Full-stack web developer computer.
+My name is Orçun.I'm from Turkey. I'm currently studying in Microverse to become a Full-stack web developer computer.
 
 - 🔭 I’m currently working on JavaScript, React, Ruby.
 - 🌱 I’m currently learning APIS, Data Structure, Webpack
