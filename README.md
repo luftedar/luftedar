@@ -5,7 +5,6 @@
   <div id="header-right" align="center">
       <h3>Contact with me:</h3>
     <a href="https://www.linkedin.com/in/orcunugur/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orcunugur/" height="40" width="40" /></a>
-    <a href="ugurorcun91@gmail.com"><img src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" height="40" width="40"></a>
   </div>
  </div>
 <h3 align="center">Languages and Tools:</h3>
