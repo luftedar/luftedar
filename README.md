@@ -1,7 +1,4 @@
 <div>
-  <div id="header" align="center">
-    <img src="https://user-images.githubusercontent.com/82842839/163670635-0e7b6016-1896-4042-825d-e9ffa2a3a0c8.gif">
-  </div>
   <div id="header-right" align="center">
       <h3>Contact with me:</h3>
     <a href="https://www.linkedin.com/in/orcunugur/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/orcunugur/" height="40" width="40" /></a>
